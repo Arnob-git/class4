@@ -130,7 +130,7 @@ nav .icon i:hover{
         banner part start
 =========================================*/
 #banner-part{
-        background: url(../images/banner.png) no-repeat center;
+        background: url(../class4/images/banner.png) no-repeat center;
         background-size: cover;
         padding: 100px 0;
 }
